@@ -1,5 +1,5 @@
 # What is the goal of your workflow
-# Goal: Whwnever someone change the python code, the linter check if the syntax, format, indentation is correct or not.
+# Goal: Whenever someone change the python code, the linter check if the syntax, format, indentation is correct or not.
 name: Auto Linter
 
 on:
